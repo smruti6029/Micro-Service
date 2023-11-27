@@ -1,0 +1,8 @@
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/controller/UserController.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/repository/UserRepository.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/entity/User.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/entity/Rating.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/config/SwaggerConfig.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/UserServiceApplication.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/service/UserService.java
+/home/rapidsoft/Documents/JSP/Spring Boot/UserService/src/main/java/com/user/serviceImp/UserServiceimp.java
